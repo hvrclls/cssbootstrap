@@ -1,0 +1,16 @@
+.main_img {
+height: 450px;
+width: auto;
+}
+#test {
+    background-color: gray;
+    color: white;
+}
+
+
+#bio {
+    font-size: 20px;
+    text-align: center;
+    height: 50%;
+}
+
