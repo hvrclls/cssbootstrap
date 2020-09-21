@@ -1,8 +1,8 @@
-#test {
-    background-color: gray;
+#jumbo {
+    background: linear-gradient(black, white);
+  }
+
+#main {
     color: white;
+    padding-bottom: 10%;
 }
-.main_img {
-    height: 450px;
-    width: auto;
-    }
