@@ -3,7 +3,7 @@
   }
 #mainimg {
   float: left;
-  margin-left: 10%;
+  margin-left: 8%;
 }
 #main {
     padding-bottom: 10%;
@@ -19,6 +19,6 @@
   margin-right: 10%;
 }
 
-.col-sm {
-  margin-left: 10%;
+.container-sm {
+  margin-left: 11%;
 }
