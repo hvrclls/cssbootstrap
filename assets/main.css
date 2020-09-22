@@ -1,14 +1,14 @@
 #jumbo {
-    background: linear-gradient(black, white);
+  background: linear-gradient(black, white);
   }
 #mainimg {
   float: left;
   margin-left: 10%;
 }
 #main {
-    color: white;
     padding-bottom: 10%;
     float: right;
+    color: white;
 }
 .display-4 {
   margin-left: 10%;
@@ -17,4 +17,8 @@
 .lead {
   margin-left: 10%;
   margin-right: 10%;
+}
+
+.col-sm {
+  margin-left: 10%;
 }
