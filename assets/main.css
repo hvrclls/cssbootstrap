@@ -1,16 +1,11 @@
 #jumbo {
   background: linear-gradient(black, 80%, white);
+  padding-left: 10%;
+  padding-right: 5%;
   }
 
 #main {
     color: white;
-}
-.display-4 {
-  margin-left: 10%;
-}
-.lead {
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 .container-sm {
